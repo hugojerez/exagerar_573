@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "523992549994",
+    "firebase_url": "https://exagerar-com.firebaseio.com",
+    "project_id": "exagerar-com",
+    "storage_bucket": "exagerar-com.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523992549994:android:2517145217ee57c5",
+        "android_client_info": {
+          "package_name": "reparame.cl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523992549994-4kiof8bp0vhl8p4n84gp1ghp2blcn4qu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFAXNVClkgRrGI8UXt76uISAxanM4TMjU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
